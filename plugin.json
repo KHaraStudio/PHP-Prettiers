@@ -1,8 +1,0 @@
-{
-  "id": "php-prettiers",
-  "name": "PHP Prettiers",
-  "version": "1.0.0",
-  "author": "KHara Studio",
-  "description": "Merapikan kode PHP berantakan",
-  "main": "main.js"
-}
